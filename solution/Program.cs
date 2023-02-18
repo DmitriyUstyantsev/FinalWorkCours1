@@ -35,4 +35,4 @@ int CountLessThan(string[] input, int n) {
 string[] AskArray() {
     Write("Введите символы через пробел: ");
     return ReadLine().Split(" ");
-}с
+}
